@@ -1,3 +1,4 @@
+'''CALCULADORA TMB'''
 massa = float(input("Seu peso "))
 altura = float(input("Sua altura "))
 idade = float(input("Sua idade "))
