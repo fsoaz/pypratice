@@ -1,4 +1,4 @@
-# pypratice
+Estrutura Sequencial
 python
 
 Estrutura Sequencial
