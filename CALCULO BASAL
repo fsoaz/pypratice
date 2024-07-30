@@ -1,0 +1,5 @@
+massa = float(input("Seu peso "))
+altura = float(input("Sua altura "))
+idade = float(input("Sua idade "))
+calorias = (66+(13.7*massa)+(5*altura)-(6.8*idade))
+print(f"Gasto de calorias basal: {calorias}")
