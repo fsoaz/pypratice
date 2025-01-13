@@ -1,2 +1,2 @@
-Estrutura Sequencial
+Sequencial Structure
 python
